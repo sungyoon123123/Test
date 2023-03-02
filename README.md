@@ -1,2 +1,2 @@
-# Test
-연습하기 위한 레퍼지토리
+# practice
+CRUD 게시판 만들기
